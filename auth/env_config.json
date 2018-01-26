@@ -1,0 +1,13 @@
+{
+  "production": {
+    "dbUrl": "mongodb://localhost:27017/users"
+  },
+  "test": {
+    "dbUrl": "mongodb://localhost:27017/test_users_db",
+    "opts": {
+      "port": 443,
+      "authTimeout": 1,
+      "sslDir": "./"
+    }
+  }
+}

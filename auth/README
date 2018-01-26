@@ -1,0 +1,9 @@
+Name:           Roger Correia
+BU Number:      B00704929
+
+All specifications mentioned on the website and in class are incorporated in the project.
+I am using bcrypt for hashing passwords since it has a lot of community support and I have been using it in other projects.
+I am also using supertest to test the restful APIs
+
+Test the APIs by using the following command
+npm test
