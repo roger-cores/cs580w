@@ -1,0 +1,13 @@
+Name:         ROGER CORREIA
+B-Number:    B00704929
+Email:       rcorrei1@binghamton.edu
+
+Information
+
+The project supports Create, Read, Update and Delete features as required. It does not include test cases.
+The newMapper function has been slightly modified.
+The second element of the array 'fn' should include code that updates fields in the argument object.
+Example: "arg['field1']='updatedValue'"
+newMapper adds the part of code that returns the updated value.
+
+Instead of using mapper.call(null,d), Array#map(mapper) is used to transform objects.
